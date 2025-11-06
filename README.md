@@ -40,6 +40,92 @@ const sergiy = {
 
 ---
 
+## 💎 Support My Development
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&repeat=true&width=800&height=100&lines=☕+Buy+Me+a+Coffee!;💰+Support+Open+Source;🚀+Help+Build+More+Projects!;🙏+Every+Donation+Counts!" alt="Typing SVG" />
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="100" />
+      <h3>☕ Coffee</h3>
+      <p>Keep me coding!</p>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="100" />
+      <h3>📚 Learning</h3>
+      <p>Fund my courses!</p>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="100" />
+      <h3>🚀 Projects</h3>
+      <p>Build more tools!</p>
+    </td>
+  </tr>
+</table>
+
+### 🌟 Your Support Makes a Difference!
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💰-DONATE_NOW-FFD700?style=for-the-badge&labelColor=1a1a1a&fontSize=20" />
+</p>
+
+### 💳 Donate USDT (Binance Smart Chain):
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
+
+```
+🔥 0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A 🔥
+```
+
+</div>
+
+<details>
+<summary><b>📱 Click to see QR Code</b></summary>
+<br>
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A" alt="QR Code" width="300" />
+</p>
+<p align="center"><i>Scan with your crypto wallet app</i></p>
+</details>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Network-Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Token-USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white" />
+  <img src="https://img.shields.io/badge/100%25-Verified-success?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
+
+### 🎁 What Your Donation Supports:
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <h4>🆓 Open Source Projects</h4>
+      <p>More free tools for developers</p>
+    </td>
+    <td width="33%" align="center">
+      <h4>📖 Educational Content</h4>
+      <p>Tutorials, guides & documentation</p>
+    </td>
+    <td width="33%" align="center">
+      <h4>🔬 Research & Innovation</h4>
+      <p>Cutting-edge AI/ML experiments</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>🙏 Thank you for your support! Every contribution helps! 🙏</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -271,20 +357,6 @@ const sergiy = {
 💬 **Telegram:** [@s_help_2010](https://t.me/s_help_2010)
 
 🔗 **GitHub:** [github.com/sergiyscherbakov](https://github.com/sergiyscherbakov)
-
----
-
-## 💰 Support My Work
-
-If you find my projects helpful, consider supporting my development:
-
-**Donate USDT (Binance Smart Chain):**
-
-```
-0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A
-```
-
-Your support helps me create more open-source projects and educational content!
 
 ---
 
