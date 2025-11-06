@@ -280,6 +280,7 @@ const sergiy = {
 
 | Category | Project | Description | Repository |
 |----------|---------|-------------|------------|
+| **Full-Stack** | GameMateNet | Social platform for gamers with Next.js 14, Nest.js 10, TypeScript, PostgreSQL, JWT auth, and Tailwind CSS | [View →](https://github.com/sergiyscherbakov/GameMateNet) |
 | **C# / WPF** | Mini CRM | WPF application with SQLite and MVVM pattern | [View →](https://github.com/sergiyscherbakov/MiniCRM) |
 | **Chrome Extension** | Screen Time Monitor | Manifest V3 extension for tracking website usage time | [View →](https://github.com/sergiyscherbakov/Screen-Time-Monitor-Extension-Google-Chrome) |
 | **Game** | Seven Game (Python/C++) | Classic "Sevens" card game for 2-4 players | [View →](https://github.com/sergiyscherbakov/seven-game-python-c_plus) |
@@ -343,6 +344,7 @@ const sergiy = {
 
 ## 🌐 Live Projects
 
+- **GameMateNet - Gaming Social Platform**: Full-stack platform for finding gaming partners with Next.js, Nest.js, PostgreSQL → [View Repository](https://github.com/sergiyscherbakov/GameMateNet)
 - **Dana Vita Wellness Center**: [dana-vita.com](https://dana-vita.com/)
 - **MetaMask Wallet Demo**: [YouTube](https://youtu.be/ILlj9uaufy0?si=8cpHK36rzXsuFwrN)
 
