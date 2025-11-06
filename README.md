@@ -1,32 +1,108 @@
-# Hi there, I'm Sergiy Shcherbakov 👋
+<div align="center">
 
-### Full-Stack Developer | AI/ML Engineer | Blockchain Developer | PhD Candidate
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sergiy%20Shcherbakov&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 
-I'm a passionate software engineer with extensive experience in web development, artificial intelligence, blockchain technologies, and automation. Currently pursuing a PhD in System Analysis at National University "Zaporizhzhia Polytechnic" while building innovative solutions across multiple technology stacks.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+💻;AI%2FML+Engineer+🤖;Blockchain+Developer+⛓️;PhD+Candidate+🎓;60%2B+Projects+in+Portfolio+🚀;Open+Source+Contributor+🌟)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sergiyscherbakov&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sergiyscherbakov?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/sergiyscherbakov?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
+</p>
+
+<p align="center">
+  <a href="mailto:sergiyscherbakov@ukr.net"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/s_help_2010"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://github.com/sergiyscherbakov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=o9nmvZAAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0002-8056-7578"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+</p>
+
+</div>
+
+---
+
+## 💫 About Me
+
+```typescript
+const sergiy = {
+    location: "Zaporizhzhia, Ukraine 🇺🇦",
+    education: "PhD Candidate in System Analysis",
+    currentWork: "Senior Technical Associate @ ZNU",
+    portfolioProjects: 60+,
+    interests: ["AI/ML", "Blockchain", "Web3", "Automation"],
+    languages: ["Ukrainian (Native)", "English (C1)"],
+    currentlyLearning: "Generative AI Models & Advanced GANs",
+    lookingFor: "Freelance opportunities & Open Source collaboration",
+    funFact: "I teach while I learn, and code while I teach! 🚀"
+};
+```
 
 ---
 
 ## 🚀 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Yii](https://img.shields.io/badge/Yii-0073BB?style=for-the-badge&logo=yii&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,java,cs,cpp,solidity" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎯 Backend Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,laravel,symfony,spring" />
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🎨 Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,bootstrap,sass,tailwind" />
+</p>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite,redis" />
+</p>
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black) ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
+### 🤖 AI/ML & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### ⛓️ Blockchain & Web3
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF04D?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github,nodejs,npm" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
 ## 📊 Featured Projects by Technology
 
-### 🐍 Python Backend Frameworks
+<div align="center">
+
+### 🎯 Quick Stats
+![](https://img.shields.io/badge/Total_Projects-60+-success?style=for-the-badge) ![](https://img.shields.io/badge/Python_Projects-15+-blue?style=for-the-badge) ![](https://img.shields.io/badge/PHP_Projects-10+-orange?style=for-the-badge) ![](https://img.shields.io/badge/Blockchain-12+-yellow?style=for-the-badge) ![](https://img.shields.io/badge/AI%2FML-15+-red?style=for-the-badge) ![](https://img.shields.io/badge/N8N_Workflows-14+-purple?style=for-the-badge)
+
+</div>
+
+---
+
+<details open>
+<summary><h3>🐍 Python Backend Frameworks (Click to expand/collapse)</h3></summary>
 
 | Framework | Project | Description | Repository |
 |-----------|---------|-------------|------------|
@@ -35,7 +111,10 @@ I'm a passionate software engineer with extensive experience in web development,
 | **Flask** | Date Management App | Web application with custom Date class for MySQL database operations | [View →](https://github.com/sergiyscherbakov/flask-date-class) |
 | **FastAPI** | MongoDB Number Analyzer | Finds minimum divisible by 5 in arrays using MongoDB and Bootstrap UI | [View →](https://github.com/sergiyscherbakov/flaskapi-min-divisible-by-5) |
 
-### 🔥 PHP Backend Frameworks
+</details>
+
+<details open>
+<summary><h3>🔥 PHP Backend Frameworks (Click to expand/collapse)</h3></summary>
 
 | Framework | Project | Description | Repository |
 |-----------|---------|-------------|------------|
@@ -47,7 +126,10 @@ I'm a passionate software engineer with extensive experience in web development,
 | **CodeIgniter** | Even Numbers App | MongoDB integration with AJAX interface and NoSQL operations | [View →](https://github.com/sergiyscherbakov/codeigniter-even-numbers-app) |
 | **Spring** | Java Snake Game | WebSocket-based multiplayer Snake game with Spring Boot 3.2.0 | [View →](https://github.com/sergiyscherbakov/java-Spring-Snake) |
 
-### ⛓️ Blockchain & Smart Contracts
+</details>
+
+<details open>
+<summary><h3>⛓️ Blockchain & Smart Contracts (Click to expand/collapse)</h3></summary>
 
 | Technology | Project | Description | Repository |
 |------------|---------|-------------|------------|
@@ -60,7 +142,10 @@ I'm a passionate software engineer with extensive experience in web development,
 | **Security** | Ethernaut Security Challenges | CTF security challenges solving blockchain vulnerabilities | [View →](https://github.com/sergiyscherbakov/ethernaut-security-challenges) |
 | **Node.js** | Async/Sync File Operations | Node.js demonstrations of synchronous and asynchronous patterns | [View →](https://github.com/sergiyscherbakov/nodejs-async-sync-demo) |
 
-### 🤖 AI & Machine Learning (PyTorch/TensorFlow)
+</details>
+
+<details>
+<summary><h3>🤖 AI & Machine Learning - PyTorch/TensorFlow (Click to expand/collapse)</h3></summary>
 
 | Category | Project | Description | Repository |
 |----------|---------|-------------|------------|
@@ -80,7 +165,10 @@ I'm a passionate software engineer with extensive experience in web development,
 | **Security** | ML-Based Phishing Detector | Machine learning system for detecting phishing URLs | [View →](https://github.com/sergiyscherbakov/ml-phishing-url-detector) |
 | **GenAI Security** | GenAI-Enhanced Phishing Detector | Claude API-enhanced phishing detection system | [View →](https://github.com/sergiyscherbakov/genai-phishing-url-detector) |
 
-### 🔄 N8N Automation & AI Workflows
+</details>
+
+<details>
+<summary><h3>🔄 N8N Automation & AI Workflows (Click to expand/collapse)</h3></summary>
 
 | Type | Project | Description | Repository |
 |------|---------|-------------|------------|
@@ -99,7 +187,10 @@ I'm a passionate software engineer with extensive experience in web development,
 | **Telegram Bot** | AI Assistant Telegram Bot | Multi-modal bot with TTS, STT, image generation, and OCR | [View →](https://github.com/sergiyscherbakov/ai-assistant-telegram-bot) |
 | **Academic** | Telegram Claude Academic Titles | Academic title generation bot using Claude API | [View →](https://github.com/sergiyscherbakov/telegram-claude-academic-titles) |
 
-### 💻 Other Notable Projects
+</details>
+
+<details>
+<summary><h3>💻 Other Notable Projects (Click to expand/collapse)</h3></summary>
 
 | Category | Project | Description | Repository |
 |----------|---------|-------------|------------|
@@ -109,6 +200,8 @@ I'm a passionate software engineer with extensive experience in web development,
 | **Frontend** | HTML/CSS Practice | Responsive layouts and Bootstrap framework practice | [View →](https://github.com/sergiyscherbakov/html-css-practice-lesson-22) |
 | **JavaScript** | List Filter Application | Interactive list filtering with vanilla JavaScript | [View →](https://github.com/sergiyscherbakov/list-filter-js) |
 | **UI Design** | Crypto Wallet UI | Modern crypto wallet interface for Ethereum, ERC20, and Bitcoin | [View →](https://github.com/sergiyscherbakov/crypto-wallet-ui) |
+
+</details>
 
 ---
 
@@ -195,31 +288,102 @@ Your support helps me create more open-source projects and educational content!
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
-![Sergiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiyscherbakov&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiyscherbakov&layout=compact&theme=radical)
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sergiyscherbakov&theme=radical&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
+
+### 📊 Detailed Statistics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sergiyscherbakov&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiyscherbakov&layout=compact&theme=radical&hide_border=true&langs_count=10" />
+</p>
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sergiyscherbakov&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Contribution Graph
+[![Sergiy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiyscherbakov&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/sergiyscherbakov/sergiyscherbakov/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
 ## 🤝 Let's Build Something Amazing Together!
 
-I'm always open to collaborating on innovative projects, especially in:
-- 🤖 AI/ML and Generative Models
-- ⛓️ Blockchain and Smart Contracts
-- 🔄 Automation and Workflow Optimization
-- 🌐 Full-Stack Web Development
-- 📊 Data Science and Analytics
+<div align="center">
 
-Feel free to reach out for freelance opportunities, collaborations, or just to chat about technology!
+### 🌟 Open for Collaboration
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="80" />
+      <br><b>AI/ML & GANs</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" width="80" />
+      <br><b>Blockchain & Web3</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="80" />
+      <br><b>Automation & N8N</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="80" />
+      <br><b>Full-Stack Web</b>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="80" />
+      <br><b>Data Science</b>
+    </td>
+  </tr>
+</table>
+
+### 💼 Available for Freelance & Contract Work
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_Hire-success?style=for-the-badge&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Response_Time-24_Hours-blue?style=for-the-badge&logo=clock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects_Completed-60+-orange?style=for-the-badge&logo=target&logoColor=white" />
+</p>
+
+---
+
+### 📬 Get in Touch
+
+<div align="center">
+
+```typescript
+// Ready to start your project? Let's connect!
+const contact = {
+    email: "sergiyscherbakov@ukr.net",
+    telegram: "@s_help_2010",
+    availability: "Open for projects",
+    timezone: "EET (UTC+2)",
+    responseTime: "Usually within 24 hours"
+};
+
+// Don't hesitate to reach out! 🚀
+```
+
+</div>
 
 ---
 
 <div align="center">
 
-**⭐ If you like my work, please star my repositories! ⭐**
+### ⭐ If you like my work, please star my repositories! ⭐
 
-*Generated with passion and dedication to open source*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" width="50" />
+
+**Thank you for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
