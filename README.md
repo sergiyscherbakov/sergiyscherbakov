@@ -297,7 +297,7 @@ const sergiy = {
 - **PhD in System Analysis** - National University "Zaporizhzhia Polytechnic" (2023-2027)
 - **Master of Philosophy** - Psychology (2022-2023)
 - **Information Technology Design** - Khmelnytskyi National University (2006-2012)
-- **English Proficiency** - C1 Level Certification (2021)
+ 
 
 ### 📚 Professional Courses
 
