@@ -284,6 +284,7 @@ const sergiy = {
 | **C# / WPF** | Mini CRM | WPF application with SQLite and MVVM pattern | [View →](https://github.com/sergiyscherbakov/MiniCRM) |
 | **Chrome Extension** | Screen Time Monitor | Manifest V3 extension for tracking website usage time | [View →](https://github.com/sergiyscherbakov/Screen-Time-Monitor-Extension-Google-Chrome) |
 | **Game** | Seven Game (Python/C++) | Classic "Sevens" card game for 2-4 players | [View →](https://github.com/sergiyscherbakov/seven-game-python-c_plus) |
+| **Game** | Conway's Game of Life | Console implementation of Conway's cellular automaton with interactive evolution | [View →](https://github.com/sergiyscherbakov/conway-game-of-life-cpp) |
 | **Frontend** | HTML/CSS Practice | Responsive layouts and Bootstrap framework practice | [View →](https://github.com/sergiyscherbakov/html-css-practice-lesson-22) |
 | **JavaScript** | List Filter Application | Interactive list filtering with vanilla JavaScript | [View →](https://github.com/sergiyscherbakov/list-filter-js) |
 | **UI Design** | Crypto Wallet UI | Modern crypto wallet interface for Ethereum, ERC20, and Bitcoin | [View →](https://github.com/sergiyscherbakov/crypto-wallet-ui) |
