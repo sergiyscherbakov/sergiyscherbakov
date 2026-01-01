@@ -281,6 +281,7 @@ const sergiy = {
 | Category | Project | Description | Repository |
 |----------|---------|-------------|------------|
 | **Full-Stack** | GameMateNet | Social platform for gamers with Next.js 14, Nest.js 10, TypeScript, PostgreSQL, JWT auth, and Tailwind CSS | [View →](https://github.com/sergiyscherbakov/GameMateNet) |
+| **Embedded Systems** | Threefish-256 AVR | Threefish-256 block cipher implementation for AVR microcontrollers with TWI/I2C slave interface and 72-round encryption | [View →](https://github.com/sergiyscherbakov/threefish-256-avr) |
 | **C# / WPF** | Mini CRM | WPF application with SQLite and MVVM pattern | [View →](https://github.com/sergiyscherbakov/MiniCRM) |
 | **Chrome Extension** | Screen Time Monitor | Manifest V3 extension for tracking website usage time | [View →](https://github.com/sergiyscherbakov/Screen-Time-Monitor-Extension-Google-Chrome) |
 | **Game** | Seven Game (Python/C++) | Classic "Sevens" card game for 2-4 players | [View →](https://github.com/sergiyscherbakov/seven-game-python-c_plus) |
