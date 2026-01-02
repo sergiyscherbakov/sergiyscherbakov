@@ -72,12 +72,12 @@ const sergiy = {
   <img src="https://img.shields.io/badge/💰-DONATE_NOW-FFD700?style=for-the-badge&labelColor=1a1a1a&fontSize=20" />
 </p>
 
-### 💳 Donate USDT (Binance Smart Chain):
+### 💳 Donate USDT (TRC20):
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; margin: 20px 0;">
 
 ```
-🔥 0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A 🔥
+🔥 TGZdznahdfWvXGHLKTxbmh8AYEi9mMYrT6 🔥
 ```
 
 </div>
@@ -86,13 +86,13 @@ const sergiy = {
 <summary><b>📱 Click to see QR Code</b></summary>
 <br>
 <p align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=0xDFD0A23d2FEd7c1ab8A0F9A4a1F8386832B6f95A" alt="QR Code" width="300" />
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=TGZdznahdfWvXGHLKTxbmh8AYEi9mMYrT6" alt="QR Code" width="300" />
 </p>
 <p align="center"><i>Scan with your crypto wallet app</i></p>
 </details>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Network-Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-TRON_(TRC20)-FF0013?style=for-the-badge&logo=tron&logoColor=white" />
   <img src="https://img.shields.io/badge/Token-USDT-26A17B?style=for-the-badge&logo=tether&logoColor=white" />
   <img src="https://img.shields.io/badge/100%25-Verified-success?style=for-the-badge&logo=shield&logoColor=white" />
 </p>
@@ -194,6 +194,7 @@ const sergiy = {
 |-----------|---------|-------------|------------|
 | **Django** | Auto Service Management System | Complete auto service management platform with clients, vehicles, and technicians management | [View →](https://github.com/sergiyscherbakov/django-autoservice) |
 | **Django** | Shop Application | E-commerce platform with product management and CRUD operations via Django Admin | [View →](https://github.com/sergiyscherbakov/django-shop-application) |
+| **Flask** | Data Compression Algorithms | Professional comparison of Huffman, RLE, LZW, and Arithmetic coding with real-time visualization and performance metrics | [View →](https://github.com/sergiyscherbakov/data-compression-algorithms) |
 | **Flask** | Date Management App | Web application with custom Date class for MySQL database operations | [View →](https://github.com/sergiyscherbakov/flask-date-class) |
 | **FastAPI** | MongoDB Number Analyzer | Finds minimum divisible by 5 in arrays using MongoDB and Bootstrap UI | [View →](https://github.com/sergiyscherbakov/flaskapi-min-divisible-by-5) |
 
