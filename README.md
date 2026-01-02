@@ -286,7 +286,8 @@ const sergiy = {
 | **Chrome Extension** | Screen Time Monitor | Manifest V3 extension for tracking website usage time | [View →](https://github.com/sergiyscherbakov/Screen-Time-Monitor-Extension-Google-Chrome) |
 | **Game** | Seven Game (Python/C++) | Classic "Sevens" card game for 2-4 players | [View →](https://github.com/sergiyscherbakov/seven-game-python-c_plus) |
 | **Game** | Conway's Game of Life | Console implementation of Conway's cellular automaton with interactive evolution | [View →](https://github.com/sergiyscherbakov/conway-game-of-life-cpp) |
-| **Java / JavaFX** | JavaFX Games & Cipher Suite | Professional checkers game with Ukrainian localization, multi-jump support, win detection, and Cipher Master Pro (Caesar, Vigenere, Atbash) | [View →](https://github.com/sergiyscherbakov/javafx-games-cipher-suite) |
+| **Java / JavaFX** | JavaFX Checkers Game | Professional checkers (draughts) game with Ukrainian localization, multi-jump support, king promotions, game timer, and win detection | [View →](https://github.com/sergiyscherbakov/javafx-games-cipher-suite) |
+| **Java / JavaFX** | CipherMaster Pro | Professional encryption/decryption application supporting Caesar, Vigenere, and Atbash ciphers with bilingual support (Ukrainian/English) | [View →](https://github.com/sergiyscherbakov/cipher-master-pro) |
 | **Frontend** | HTML/CSS Practice | Responsive layouts and Bootstrap framework practice | [View →](https://github.com/sergiyscherbakov/html-css-practice-lesson-22) |
 | **JavaScript** | List Filter Application | Interactive list filtering with vanilla JavaScript | [View →](https://github.com/sergiyscherbakov/list-filter-js) |
 | **UI Design** | Crypto Wallet UI | Modern crypto wallet interface for Ethereum, ERC20, and Bitcoin | [View →](https://github.com/sergiyscherbakov/crypto-wallet-ui) |
